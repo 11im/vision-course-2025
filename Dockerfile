@@ -22,6 +22,7 @@ COPY . .
 RUN pip install --no-cache-dir \
     paddleocr==2.7.0.3 \
     sentence-transformers \
+    sentencepiece \
     numpy==1.23.5
 
 # Set the default command to execute when the container starts
