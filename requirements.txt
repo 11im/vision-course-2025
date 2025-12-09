@@ -1,0 +1,7 @@
+torch 
+numpy==1.23.5
+Pillow 
+
+transformers 
+paddleocr==2.7.0.3 
+sentence-transformers 
