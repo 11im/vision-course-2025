@@ -1,0 +1,35 @@
+# Git version control files
+.git/
+.gitignore
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+env/
+venv/
+donut_env/
+
+# IDE and editor configuration
+.vscode/
+.idea/
+
+# Logs, results, and other generated files
+logs/
+results/
+
+# Large data files
+data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker files (if they are in the same directory)
+Dockerfile
+.dockerignore
